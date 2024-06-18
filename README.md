@@ -14,8 +14,8 @@ Este projeto é um serviço simples de envio de e-mails construido com Node.js, 
 Para começar, clone o repositório e instale as dependências:
 
 ```bash
-git clone repositorio
-cd repositorio
+git clone[ repositorio](https://github.com/moglylima/send-email-service-https.git)
+cd send-email-service-https
 npm install
 ```
 
