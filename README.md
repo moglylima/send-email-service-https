@@ -7,9 +7,7 @@ Este projeto é um serviço simples de envio de e-mails construido com Node.js, 
 - [Instalação](#instalação)
 - [Configuração](#configuração)
 - [Uso](#uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuição](#contribuição)
 
 ## Instalação
 
@@ -29,7 +27,6 @@ env
 ```
 HTTPS_PORT=3443;
 GMAIL_FROM=email-origem
-GMAIL_TO=destino
 GMAIL_PASS_APP=senha-do-app
 ```
 
